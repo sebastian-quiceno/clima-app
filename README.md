@@ -19,3 +19,6 @@ Este proyecto es un servicio web construido con Python y Flask que permite consu
 ## 🔥 Ejecucion
 1. En la terminal digite: sudo docker run -p 5000:5000 clima-app
 2. Posteriormete el docker le va a mostrar la direccion para ver el servicio, copiela y peguela en su navegador
+
+# clima-app-Script
+##Para correr el programa automaticamente, vaya a la consola, ingrese en la ruta .../clima_app_Script/clima_app y digite el siguiente comando sudo ./run.sh
